@@ -1,3 +1,5 @@
+// реализовать простой калькулятор
+
 package HomeWork001;
 
 import java.util.Scanner;
